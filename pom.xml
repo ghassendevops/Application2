@@ -66,8 +66,8 @@
   </build>
   <distributionManagement>
         <repository>
-            <id>apphello2</id>
-            <url>http://192.168.178.43:8082/repository/apphello2/</url>
+            <id>apphello22</id>
+            <url>http://192.168.178.43:8082/repository/apphello22/</url>
         </repository>
  
     </distributionManagement>
