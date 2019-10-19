@@ -64,4 +64,11 @@
       </plugins>
     </pluginManagement>
   </build>
+   <distributionManagement>
+        <repository>
+            <id>repohelloapp2</id>
+            <url>http://192.168.178.43:8082/repository/apphello2/</url>
+        </repository>
+    </distributionManagement>
+  
 </project>
